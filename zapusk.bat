@@ -1,0 +1,1 @@
+gcc -o DYN DYN.c 2> gccmessages 
